@@ -16,10 +16,10 @@
 
 | Affirmative statements / Contractions                  | Negative statements / Contractions                                                             |
 | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| I**am** Ann. / **I'm** Ann                 | I**am not** Jen. / **I'm not** Jen.                                                |
-| You**are** an architect. / You're an architect.  | You**are not** an artist. /  **You're not** an artist. / You aren't an artist.     |
-| He**is** a teacher. /  **He's** a teacher. | He**is not** a student. /  **He's not** a student. / **He isn't** a student. |
-| She**is** a singer. /  **She's** a singer. | She**is not** a banker. /  **She's not** a banker. / **She isn't** a banker.      |
+| I **am** Ann. / **I'm** Ann                 | I **am not** Jen. / **I'm not** Jen.                                                |
+| You **are** an architect. / You're an architect.  | You **are not** an artist. /  **You're not** an artist. / You aren't an artist.     |
+| He **is** a teacher. /  **He's** a teacher. | He **is not** a student. /  **He's not** a student. / **He isn't** a student. |
+| She **is** a singer. /  **She's** a singer. | She **is not** a banker. /  **She's not** a banker. / **She isn't** a banker.      |
 
 ### Conversation Model
 
