@@ -61,20 +61,20 @@ A: I'm a banker.
 
 | Yes / no questions                    | Short answers / Yes  | Short answers / No     |
 | ------------------------------------- | -------------------- | ---------------------- |
-| ***Are you*** an architect ?          | Yes, I ***am***.     | No, I***'m not***.     |
-| ***Is he*** an engineer ?             | Yes, He ***is***.    | No, He***'s not***.    |
-| ***Is Tom*** a chef ?                 | Yes, she ***is***.   | No, She***'s not***.   |
-| ***Are you*** writers ?               | Yes, We ***are***.   | No,We***'re not***.    |
-| ***Are they*** managers?              | Yes, They ***are***. | No, They***'re not***. |
-| ***Are Holin and Anger*** scientists? | Yes, They ***are***. | No, They***'re not***. |
+| ***Are you*** an architect ?          | Yes, I ***am***.     | No, I ***'m not***.     |
+| ***Is he*** an engineer ?             | Yes, He ***is***.    | No, He ***'s not***.    |
+| ***Is Tom*** a chef ?                 | Yes, she ***is***.   | No, She ***'s not***.   |
+| ***Are you*** writers ?               | Yes, We ***are***.   | No,We ***'re not***.    |
+| ***Are they*** managers?              | Yes, They ***are***. | No, They ***'re not***. |
+| ***Are Holin and Anger*** scientists? | Yes, They ***are***. | No, They ***'re not***. |
 
 #### Affirmative / Negative statements Contractions
 
 | Affirmative statements / Contractions                    | Negative statements / Contractions                           |
 | -------------------------------------------------------- | ------------------------------------------------------------ |
-| We ***are*** photographers. / We***'re*** photographers. | We ***are not*** chefs. / We***'re not*** chefs.             |
-| You ***are*** scientists. / You***'re*** scientists.     | You ***are not*** pilots. / You ***aren't*** pilots / You***'re not***  pilots. |
-| They ***are*** writers. / They***'re*** writers.         | They ***are not*** artists. / They ***aren't*** artists. / They***'re not*** artists. |
+| We ***are*** photographers. / We ***'re*** photographers. | We ***are not*** chefs. / We ***'re not*** chefs.             |
+| You ***are*** scientists. / You ***'re*** scientists.     | You ***are not*** pilots. / You ***aren't*** pilots / You ***'re not***  pilots. |
+| They ***are*** writers. / They ***'re*** writers.         | They ***are not*** artists. / They ***aren't*** artists. / They ***'re not*** artists. |
 
 ### Conversation Model
 
