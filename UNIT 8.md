@@ -37,13 +37,13 @@
 
 #### Grammar Practice
 
-1.   A: Where <u>does</u> your sister live?                                                             2.  A: Where <u>do</u> you <u>study</u> English? 
+1.   A: Where <u>does</u> your sister live?                     |                                        2.  A: Where <u>do</u> you <u>study</u> English? 
 
-     B: She lives <u>in</u> an apartment.                                                                      B: We study <u>English at</u> the school around the corner.
+     B: She lives <u>in</u> an apartment.                        |                                           B: We study <u>English at</u> the school around the corner.
 
-3.   A: Where <u>does</u> your neighbor <u>work</u>?                                                    4.  A: Where <u>do</u> your parents <u>live</u>?
+3.   A: Where <u>does</u> your neighbor <u>work</u>?              |                                      4.  A: Where <u>do</u> your parents <u>live</u>?
 
-​         B: She works <u>at</u> a bookstore.                                                                 5.  B: They live <u>at</u> 58 Gray Street.
+​         B: She works <u>at</u> a bookstore.                      |                                           5.  B: They live <u>at</u> 58 Gray Street.
 
 ### Conversation Model
 
