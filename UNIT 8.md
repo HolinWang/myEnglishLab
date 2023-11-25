@@ -20,7 +20,7 @@ typora-root-url: D:\code-life\myEnglishLab\img
 
 ### Grammar
 
-![](疑问句语法.png)
+![](img/疑问句语法.png)
 
 #### Questions with <u>Where</u>
 
@@ -30,7 +30,7 @@ typora-root-url: D:\code-life\myEnglishLab\img
 
 #### Prepositions of place
 
-![](in_on_at.png)
+![](img/in_on_at.png)
 
 | in  【空间范围内】            | at 【店铺、号+街道】                | on 【街道、层数】                  |
 | ----------------------------- | ----------------------------------- | ---------------------------------- |
