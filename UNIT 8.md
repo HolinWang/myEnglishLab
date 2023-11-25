@@ -1,3 +1,7 @@
+---
+typora-root-url: D:\code-life\myEnglishLab\img
+---
+
 # UNIT 8 Home and Neighborhood
 
 ## Lesson 1 Describe your neighborhood
@@ -16,7 +20,7 @@
 
 ### Grammar
 
-![](img/疑问句语法.png)
+![](疑问句语法.png)
 
 #### Questions with <u>Where</u>
 
@@ -26,7 +30,7 @@
 
 #### Prepositions of place
 
-![](img\in_on_at.png)
+![](in_on_at.png)
 
 | in  【空间范围内】            | at 【店铺、号+街道】                | on 【街道、层数】                  |
 | ----------------------------- | ----------------------------------- | ---------------------------------- |
