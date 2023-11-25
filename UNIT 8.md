@@ -1,6 +1,3 @@
----
-typora-root-url: D:\code-life\myEnglishLab\img
----
 
 # UNIT 8 Home and Neighborhood
 
